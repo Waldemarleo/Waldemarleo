@@ -51,5 +51,5 @@
 <br>
 
 <div align="center">
-  <img src="ayrton.gif" alt="GIF do Ayrton" width="300" />
+  <img src="ayrton.gif" alt="GIF do Ayrton" />
 </div>
