@@ -1,55 +1,55 @@
-<h1 align="center">Olá! Meu nome é Waldemar e sou Desenvolvedor Front-end 🚀🔥</h1>
+<h2 align="center">Olá bem vindo!!🚀👨‍💻<br>Meu nome é Waldemar Leonardo e sou desenvolvedor Front-End!</h2>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats-two-teal-98.vercel.app/api?username=Waldemarleo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&custom_title=Status" width="400" alt="Estatísticas do GitHub" />
-  <img src="https://streak-stats.demolab.com?user=Waldemarleo&locale=pt-br&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" width="400" alt="Sequência de Commits" />
-  <img src="https://github-readme-stats-two-teal-98.vercel.app/api/top-langs?username=Waldemarleo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&custom_title=Linguagens" width="400" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waldemarleo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="26" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Waldemarleo&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="90" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Waldemarleo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="111" alt="languages graph"  />
 </div>
 
-<h3 align="center">🛠️ Tecnologias que uso</h3>
+<h3 align="center">💻 Tecnologias que mais utilizo</h3>
 <div align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" title="Tailwind CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub" />
-    <img src="https://cdn.simpleicons.org/postman/FF6C37" width="30" title="Postman" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" title="Docker" />
-    <img src="https://cdn.simpleicons.org/vercel/white" width="30" title="Vercel" />
-    <img src="https://cdn.simpleicons.org/ngrok/1F1E37" width="30" title="Ngrok" />
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" title="Figma" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" title="Google Cloud" />
-    <img src="https://cdn.simpleicons.org/googleappsscript/4285F4" width="30" title="Google Apps Script" />
-    <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="30" title="Google Sheets" />
-    <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="30" title="Google Analytics" />
-    <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="30" title="Google Search Console" />
-  </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" alt="typescript logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="31" alt="androidstudio logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="31" alt="figma logo"  />
 </div>
 
-<h3 align="center">📲 Conecte-se comigo</h3>
 <div align="center">
-  <a href="https://www.instagram.com/vit1nnsz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/706351879826833458" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/victorsdev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://victordeveloper.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-24292F?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="31" alt="angularjs logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="31" alt="bootstrap logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="31" alt="git logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="31" alt="github logo"  />
+</div>
+
+<h3 align="center">📱 Minha rede social</h3>
+<div align="center">
+  <a href="www.linkedin.com/in/waldemar-leonardo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="ayrton.gif" alt="GIF do Ayrton" width="500" />
+  <img src="ayrton.gif" alt="GIF do Ayrton" width="250"/>
 </div>
