@@ -1,4 +1,4 @@
-<h2 align="center">Olá bem vindo!!🚀👨‍💻<br>Meu nome é Waldemar Leonardo e sou desenvolvedor Front-End!</h2>
+<h1 align="center">Olá bem vindo!!🚀👨‍💻<br>Meu nome é Waldemar Leonardo e sou desenvolvedor Front-End!</h1>
 
 ###
 
@@ -51,5 +51,5 @@
 <br>
 
 <div align="center">
-  <img src="ayrton.gif" alt="GIF do Ayrton" width="300"/>
+  <img src="ayrton.gif" alt="GIF do Ayrton" width="350"/>
 </div>
